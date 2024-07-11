@@ -31,14 +31,6 @@ To get started with the MSU TnP Website, follow these steps:
     ```bash
     cd msu-tnp-website
     ```
-3. Install the necessary dependencies:
-    ```bash
-    npm install
-    ```
-4. Start the development server:
-    ```bash
-    npm start
-    ```
 
 ## Usage
 
